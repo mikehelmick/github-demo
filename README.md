@@ -1,5 +1,3 @@
-# I'm using Git
+# I'm using Git and we're using GitHub
 
-Pizza.
-
-I am Romeo.
+I am Romeo and Juliet.
